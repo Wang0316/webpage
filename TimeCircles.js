@@ -945,4 +945,4 @@
     $.fn.TimeCircles = function(options) {
         return new TC_Class(this, options);
     };
-}(jQuery));
+});
